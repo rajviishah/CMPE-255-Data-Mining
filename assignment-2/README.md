@@ -1,3 +1,5 @@
+Question:
+
 Write a colab to demonstrate various dimensionality reduction techniques discussed in the class using 
 
 a) any image data set (i gave examples of faces and digits data sets colabs in slides in links / notes)
@@ -23,3 +25,8 @@ vi) UMAP
 Provide your proper commentary of results of what you think the results are and how these techniques compare wtih each other in the submission read.me and colab.
 
  
+Solution:
+
+- Applied all Dimensionality Reduction Techniques on image (handwritten digits dataset) and text (breast cancer dataset) individually.
+
+- To summarize and comparison, applied all techniques with dimensions = 2. 
