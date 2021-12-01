@@ -21,5 +21,5 @@ Medium Article Link: https://pub.towardsai.net/mental-health-and-machine-learnin
 
 Presentation Link: https://www.slideshare.net/RajviShah86/mental-health-and-machine-learning-in-companies
 
-Video Link: 
+Video Link: https://drive.google.com/file/d/1v02RquGJmBH4vAik2_Rx95f8x_C1uee5/view?usp=sharing
  
