@@ -1,3 +1,4 @@
+<h1> Task </h1>
 submit the github directory link - with public access - also add the link to the spreadsheet as well. 
 
 have a proper read.me file 
@@ -11,3 +12,14 @@ Prepare a medium.com article - few pages long - and a slide deck explaining the 
 submit the medium.com article  and slideshare link 
 
 record a 10 - 15 minute video with slides (pdf or ppt)  and upload it to the github directory
+
+<h1> Submission </h1>
+
+Paper Link: https://ieeexplore.ieee.org/document/9368923
+
+Medium Article Link: https://pub.towardsai.net/mental-health-and-machine-learning-in-companies-53800724f281
+
+Presentation Link: https://docs.google.com/presentation/d/1mZojK-Xcka_AcHrcYqAPAf3i1XfiITbUCVFO-WOwH18/edit?usp=sharing
+
+Video Link: 
+ 
