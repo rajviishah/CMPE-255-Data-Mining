@@ -19,7 +19,7 @@ Paper Link: https://ieeexplore.ieee.org/document/9368923
 
 Medium Article Link: https://pub.towardsai.net/mental-health-and-machine-learning-in-companies-53800724f281
 
-Presentation Link: https://docs.google.com/presentation/d/1mZojK-Xcka_AcHrcYqAPAf3i1XfiITbUCVFO-WOwH18/edit?usp=sharing
+Presentation Link: https://www.slideshare.net/RajviShah86/mental-health-and-machine-learning-in-companies
 
 Video Link: 
  
